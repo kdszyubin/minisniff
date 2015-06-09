@@ -1,0 +1,2982 @@
+
+Detail information about captured packets
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:d8:cb:ea
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 4132
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.52
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  0:86:33:50:f:e3
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 42072
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  44:8a:5b:46:cc:33
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 63766
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.133
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  44:8a:5b:46:cc:33
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 62998
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.133
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  44:8a:5b:46:cc:33
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 62742
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.133
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  44:8a:5b:46:cc:33
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 53878
+offset= 0
+ttl= 128
+protocol=17
+source= 172.18.42.133
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:c:6d:56
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 31065
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.5
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:93:87:d6
+source mac address=  8:9e:1:c0:94:45
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=428 captured length=428
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d7:18:ec
+type of packet= IP
+information about this IP packet:
+length= 414
+header length= 5
+version= 4
+id= 53519
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.43
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=436 captured length=436
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  78:84:3c:35:3f:4
+type of packet= IP
+information about this IP packet:
+length= 422
+header length= 5
+version= 4
+id= 103
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.37
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:b:d7:31
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 44850
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.170
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  0:e0:4c:36:0:e
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 17511
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.76
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  8:9e:1:87:1a:fd
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 15618
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.43
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 18797
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 61765
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 42246
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=139 captured length=139
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1e:b6:5e
+type of packet= IP
+information about this IP packet:
+length= 125
+header length= 5
+version= 4
+id= 13857
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.79
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:c:b8:5f
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 41816
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:3:45
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 49226
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.213
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 61509
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  f0:bf:97:ec:4a:3a
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 47707
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.93
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 7706
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.13
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 7450
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.13
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d1:c3:3d
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 3434
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.27
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  78:45:c4:b1:c4:83
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 48441
+offset= 0
+ttl= 128
+protocol=17
+source= 172.18.41.56
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  f0:bf:97:ec:4a:3a
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 45659
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.41.93
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 37720
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 37464
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 37208
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 61253
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 18541
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  f0:bf:97:ec:4a:3a
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 45403
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.41.93
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:b:d7:31
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 44594
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.170
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:55:37:b5
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:55:37:b5
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 36952
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.41.220
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  50:b7:c3:89:25:be
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  8:9e:1:87:1a:fd
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 15362
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.43
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 21059
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.244
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 44871
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 44615
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 44359
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 44103
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  0:86:33:50:f:e3
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=133 captured length=133
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  b8:88:e3:f9:1c:41
+type of packet= IP
+information about this IP packet:
+length= 119
+header length= 5
+version= 4
+id= 58709
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.73
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:f2:e5:c7
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:f2:e5:c7
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 36696
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.41.220
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1b:4d:c0
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 34378
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.119
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:b:d7:31
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 44338
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.170
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 26374
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  8:9e:1:87:1a:fd
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 15106
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.43
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:b:d7:31
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 44082
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.170
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:3:45
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 48714
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.213
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 18285
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 60997
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 60741
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  8:9e:1:87:1a:fd
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 14850
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.43
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 19523
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 24070
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:52:d6:ab
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:93:87:d6
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  74:d0:2b:60:3:45
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 48202
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.41.213
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:52:d6:ab
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 43847
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 43591
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 7194
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.13
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 43335
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 43079
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.40.13
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 16707
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 6938
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.13
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d1:c3:3d
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 61801
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.27
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  78:45:c4:b1:c4:83
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 14649
+offset= 0
+ttl= 128
+protocol=17
+source= 172.18.41.56
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=128 captured length=128
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  a4:5d:36:73:ef:e1
+type of packet= IP
+information about this IP packet:
+length= 114
+header length= 5
+version= 4
+id= 43050
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.134
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  a4:5d:36:c0:59:e
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:9a:46:30
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1f:82:42
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 44400
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.211
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  74:d0:2b:60:3:45
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 47434
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.41.213
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 34904
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 34648
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 60485
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:8c:64:f9
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  f0:bf:97:ec:4a:3a
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 43099
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.93
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  20:89:84:d1:c3:3d
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 60265
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.43.27
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=248 captured length=248
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  a0:48:1c:14:8:59
+type of packet= IP
+information about this IP packet:
+length= 234
+header length= 5
+version= 4
+id= 61006
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.77
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  e8:9a:8f:f8:71:bc
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=126 captured length=126
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d3:2f:bc
+type of packet= IP
+information about this IP packet:
+length= 112
+header length= 5
+version= 4
+id= 33063
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.47
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  20:89:84:d1:c3:3d
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 58729
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.43.27
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 13635
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.244
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:7d:6d:7f
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1b:4d:c0
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 33354
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.119
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:7d:6d:7f
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 18776
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 60229
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 18029
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 10758
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:d9:76:7b
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 59973
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  0:86:33:50:f:e3
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  8:9e:1:87:1a:fd
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 14082
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.43
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 6918
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.183
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 6662
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  78:45:c4:b1:c4:83
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 44344
+offset= 0
+ttl= 128
+protocol=17
+source= 172.18.41.56
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 6406
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.183
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:82:ae:46
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:9e:4:f9
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1f:82:42
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 44144
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.211
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 18520
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:12:87:34
+source mac address=  3c:97:e:43:a3:3c
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 17773
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 59717
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:3:45
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 46666
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.213
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:14:8e:ed
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 17517
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  f0:bf:97:ec:4a:3a
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 33371
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.93
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:58:ff:93
+source mac address=  0:26:b0:e9:86:9e
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:58:ff:93
+source mac address=  28:d2:44:18:13:2c
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:58:ff:93
+source mac address=  28:d2:44:17:4f:72
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  8:9e:1:96:98:c1
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:1a:6:5b:b:ea
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 32780
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.123
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=139 captured length=139
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1e:b6:5e
+type of packet= IP
+information about this IP packet:
+length= 125
+header length= 5
+version= 4
+id= 5409
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.79
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d1:c3:3d
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 51049
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.27
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:35:a3:ad
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:35:a3:ad
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 6979
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.244
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1b:4d:c0
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 32586
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.119
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 59461
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:b5:d1
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 11096
+offset= 0
+ttl= 64
+protocol=17
+source= 169.254.120.188
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 6426
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.13
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  f0:de:f1:b0:30:f9
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:58:ff:93
+source mac address=  74:d0:2b:d9:76:7b
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:58:ff:93
+source mac address=  c8:a:a9:8f:a:4b
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 6723
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 6467
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 6211
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 5955
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 5699
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 5443
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 5187
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 4931
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 4675
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 4419
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 4163
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 3907
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 3651
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 3395
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 3139
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 2883
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:1b:4d:c0
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 32074
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.43.119
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 17261
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 58949
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.28
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  8:9e:1:87:1a:fd
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 13826
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.43
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:f8:31:c5
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 2627
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 2115
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 1859
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 1347
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 579
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 323
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 67
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 65346
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 65090
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 64578
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 64322
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 64066
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 63298
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 62786
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 62530
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  94:de:80:a4:4b:ce
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 61762
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.244
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:1b:4d:c0
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 31562
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.43.119
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 53253
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=66 captured length=66
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:19:3a:de
+type of packet= IP
+information about this IP packet:
+length= 52
+header length= 5
+version= 4
+id= 17005
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.28
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  78:45:c4:b1:c4:83
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 9528
+offset= 0
+ttl= 128
+protocol=17
+source= 172.18.41.56
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:d9:76:7b
+type of packet= ARP
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:1f:82:42
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 43888
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.211
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  0:86:33:50:f:e3
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:a9:4c:7d
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=133 captured length=133
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  b8:88:e3:f9:1c:41
+type of packet= IP
+information about this IP packet:
+length= 119
+header length= 5
+version= 4
+id= 58453
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.73
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:60:3:45
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 46154
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.213
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 47621
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.183
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  f0:bf:97:ec:4a:3a
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 29531
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.93
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 46853
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.183
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=431 captured length=431
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  74:d0:2b:ea:40:a2
+type of packet= IP
+information about this IP packet:
+length= 417
+header length= 5
+version= 4
+id= 56117
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.228
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:1a:6:5b:b:ea
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 47371
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.123
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  38:ea:a7:67:a6:aa
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 6170
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.13
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=426 captured length=426
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  0:90:f5:e8:dc:97
+type of packet= IP
+information about this IP packet:
+length= 412
+header length= 5
+version= 4
+id= 6723
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.198
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=428 captured length=428
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d7:18:ec
+type of packet= IP
+information about this IP packet:
+length= 414
+header length= 5
+version= 4
+id= 53007
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.43
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=432 captured length=432
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  8:60:6e:dc:24:a
+type of packet= IP
+information about this IP packet:
+length= 418
+header length= 5
+version= 4
+id= 22582
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.40.103
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=436 captured length=436
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  78:84:3c:35:3f:4
+type of packet= IP
+information about this IP packet:
+length= 422
+header length= 5
+version= 4
+id= 65382
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.42.37
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=438 captured length=438
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:f2:97:cd
+type of packet= IP
+information about this IP packet:
+length= 424
+header length= 5
+version= 4
+id= 18788
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.204
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=64 captured length=64
+destination mac address=  1:0:5e:0:0:fc
+source mac address=  28:d2:44:18:13:2c
+type of packet= IP
+information about this IP packet:
+length= 50
+header length= 5
+version= 4
+id= 41989
+offset= 0
+ttl= 1
+protocol=17
+source= 172.18.42.183
+destination= 224.0.0.252
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:ce:c6:97
+source mac address=  4:a1:51:96:5e:f6
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=86 captured length=86
+destination mac address=  33:33:ff:ce:c6:97
+source mac address=  3c:97:e:8d:25:82
+type of packet= Unknown type (86dd)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=92 captured length=92
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  20:89:84:d1:c3:3d
+type of packet= IP
+information about this IP packet:
+length= 78
+header length= 5
+version= 4
+id= 42089
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.43.27
+destination= 172.18.43.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+actual length=60 captured length=60
+destination mac address=  ff:ff:ff:ff:ff:ff
+source mac address=  28:d2:44:22:1d:bf
+type of packet= IP
+information about this IP packet:
+length= 33
+header length= 5
+version= 4
+id= 377
+offset= 0
+ttl= 64
+protocol=17
+source= 172.18.41.176
+destination= 255.255.255.255
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+

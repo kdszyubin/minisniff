@@ -1,6 +1,44 @@
 #ifndef __BUFFER_H
 #define __BUFFER_H
 
+#include <netinet/if_ether.h>
+#include <netinet/ip.h>
+#include <netinet/tcp.h>
+#include <sys/socket.h>
+#include <sys/types.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <pcap.h>
+
+#include <string.h>
+#include <string>
+#include <map>
+#include <iostream>
+#define ETH_HSIZE sizeof(struct ethhdr)
+#define IP_HSIZE sizeof(struct iphdr)
+#define TCP_HSIZE sizeof(struct tcphdr)
+
+#define ACCOUNT_EMPTY 0         /* have not found account */
+#define ACCOUNT_RECEIVING 1     /* account receiving */
+#define ACCOUNT_COMPLETED 2     /* receiving completed */
+#define PASSWORD_RECEIVING 3
+#define PASSWORD_COMPLETED 4
+typedef struct __account
+{
+        std::string user;
+        std::string passwd;
+        int flag;
+        void clear(){user.clear(); passwd.clear(); flag = 0;}
+}account;
+struct addr_cmp
+{
+        bool operator()(const struct sockaddr_in &l, const sockaddr_in &r) const
+        {
+                return l.sin_addr.s_addr < r.sin_addr.s_addr;
+        }
+};
+typedef std::map<struct sockaddr_in, account, addr_cmp> tnpwbuf;
+
 #include <string.h>
 #include <pcap.h>
 #include <stdlib.h>
@@ -43,5 +81,8 @@ int append_item(buffer*, const struct pcap_pkthdr*, const u_char*);
 
 /* run garbage collection returns freed items */
 int gc(buffer*);
+
+
+int deal_packet(tnpwbuf* buf, const struct pcap_pkthdr* packet_header, const u_char* full_packet);
 
 #endif

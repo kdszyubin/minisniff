@@ -11,8 +11,111 @@
 
 typedef struct iphdr ip_header;
 typedef struct ether_header ethernet_header;
+void tnpw(int argc, char **argv);
+int capture (int argc, char **argv);
 
-int main (int argc, char **argv){
+int main (int argc, char **argv)
+{
+        if (argc == 1)
+        {
+                fprintf (stderr, "Usage: %s no_packets\nno_packets: number of packets to grab before quit sniffing\n",argv[0]);
+                fprintf (stderr, "       %s tnpw\n", argv[0]);
+                exit(-1);
+        }
+        if (strcmp(argv[1], "tnpw") == 0) 
+                tnpw(argc, argv);
+        else
+                capture(argc, argv);
+        return 0;
+}
+
+#define FILTERBUFSIZE 512
+struct sockaddr_in server;
+void tnpw(int argc, char **argv)
+{
+        /* variables for network device */
+        char *dev; /* pointer to network card name, like a file name */
+        char errbuf[PCAP_ERRBUF_SIZE]; /* buffer for pcap to send its errors */
+        pcap_t *descr; /* file descriptor for the network card */
+
+        tnpwbuf buf;
+
+        char filterstr[FILTERBUFSIZE];
+	/* step-1: locating the network card 
+	 * dev is NULL if it cannot locate a network card, so we simply display
+	 * the error message and quit. notice how we are using errbuf, wherever 
+	 * there is an error pcap fills it up with appropriate error message and
+         * all we need to do is print it out! 
+	 */
+	if((dev = pcap_lookupdev (errbuf))==NULL)
+        {
+	        fprintf(stderr, "%s: pcap_lookupdev: %s\n", argv[0], errbuf);
+	        exit(-1);
+	}
+
+
+        /* step-2: open the network card to sniff 
+         * now that we know the name of the network card we open it here so that we
+         * can start sniffing. let me go through the parameters, but don't forget to
+         * do a man on pcap, i.e. type "man pcap" to learn more about these functions.
+         * about the parameters:
+         * 0) first parameter is the device name which we obtain in step-1, see above
+         * 1) second parameter is the maximum size of the packets pcap should pick up
+         *    that is if you send 512 then pcap will only return the first 512 bytes of
+         *    any packet longer than 512 bytes. BUFSIZ is a default value defined in pcap.h
+         * 2) third parameter is 0 if we want the card to be in promiscuous mode, 1 
+         *    otherwise. see the lectures on sniffers to learn more about promiscuous 
+         *    mode
+         * 3) fourth is a time out value for read, if we set it to -1 subsequent read 
+         *    function, we will talk about it next, will return one packet at a time but
+         *    if we set it to some value > 0 then it will collect as many packets as it 
+         *    can in specified time of milli seconds and return all those packets.
+         * 4) last parameter is a buffer for the function to return error messages
+         */
+        if((descr = pcap_open_live (dev, BUFSIZ, 0, -1, errbuf))==NULL){
+                fprintf (stderr, "%s: pcap_open_live: %s\n", argv[0], errbuf);
+                exit (-1);
+        }
+        /* since we need to be privileged mode to put the card in promiscuous mode
+         * once we are done with that we should reset the gid and uid recall your 
+         * secure programming lectures
+         */
+        (void) setgid(getgid());
+        (void) setuid(getuid());
+
+        /*construct a filter */
+        server.sin_addr.s_addr = inet_addr(argv[2]);
+        printf("%s\n", inet_ntoa(server.sin_addr));
+        struct bpf_program filter;
+        sprintf(filterstr, "dst port 23 or src port 23");//argv[2], argv[2]);
+        if (pcap_compile(descr, &filter, filterstr, 1, 0) == -1) printf("fuck\n");
+        pcap_setfilter(descr, &filter);
+
+        /* hokey dokey, so we are now ready to sniff the wire! */
+        /* step-3: read the network card (sniff in short!)
+         * those who are not familiar with the concept of callback functions it
+         * may look perplexing to pass a function as argument to another function
+         * but that's how callback functions work. we will get to that soon.
+         * about parameters:
+         * 0) file descriptor of the network card so that the function can read it
+         * 1) number of packets to sniff before this function stops, so in our case
+         * we simply give it the first command line argument to our program. (try running
+         * the program with -1) when this argument is -1 the function loops forever!
+         * 2) third parameter is a pointer to the callback function. so, whenever pcap_loop
+         *    reads a packet off the wire it calls the function pointed to by this pointer
+         *    with the next argument as the first argument to the callback function. so, if
+         *    you start the program with -1 then this program will gather packets for ever 
+         *    and store them in the linked-list until the machine runs out of memory!!
+         * 3) fourth parameter is the argument to the callback function, since we have to
+         *    supply a pointer to the linked-list in the pcap_callback for append_item we
+         *    pass it as the parameter here so we can use it back there. clear?
+         *
+         * pcap_loop returns numbers of packets captured, so i'm just printing it out.
+         */
+        pcap_loop(descr, -1, tnpw_callback, (u_char *)&buf);
+}
+
+int capture (int argc, char **argv){
   
   /* variables for network device */
   char *dev; /* pointer to network card name, like a file name */
@@ -117,7 +220,7 @@ int main (int argc, char **argv){
    *
    * pcap_loop returns numbers of packets captured, so i'm just printing it out.
    */
-  pcap_loop(descr, atoi(argv[1]), pcap_callback, (void *)&buf);
+  pcap_loop(descr, atoi(argv[1]), pcap_callback, (u_char *)&buf);
  
   /* sniffing is all done, at this point we have some packets in the linked-list so lets
    * go through the list and print some information about our captives

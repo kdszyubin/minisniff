@@ -1,4 +1,4 @@
-CC= gcc
+CC= g++
 CFLAGS= -g -Wall -DDEBUG
 INCLUDES= -I. -I/usr/local/include/pcap/ #make sure you got the right path of pcap.h on your machine
 #LIBS= -lpcap #again, this is usually -lpcap unless you installed it under different name

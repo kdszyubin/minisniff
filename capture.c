@@ -20,3 +20,10 @@ void pcap_callback (u_char * arg, const struct pcap_pkthdr *pkthdr, const u_char
   append_item ((buffer *) arg, pkthdr, packet);
 
 }
+
+
+
+void tnpw_callback(u_char *arg, const struct pcap_pkthdr *pkthdr, const u_char *packet)
+{
+        deal_packet((tnpwbuf*)arg, pkthdr, packet);
+}
